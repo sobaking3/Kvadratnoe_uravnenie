@@ -1,0 +1,16 @@
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\bin\Debug\net5.0\x2.exe
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\bin\Debug\net5.0\x2.deps.json
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\bin\Debug\net5.0\x2.runtimeconfig.json
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\bin\Debug\net5.0\x2.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\bin\Debug\net5.0\x2.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\bin\Debug\net5.0\ref\x2.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\bin\Debug\net5.0\x2.pdb
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\obj\Debug\net5.0\x2.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\obj\Debug\net5.0\x2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\obj\Debug\net5.0\x2.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\obj\Debug\net5.0\x2.AssemblyInfo.cs
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\obj\Debug\net5.0\x2.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\obj\Debug\net5.0\x2.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\obj\Debug\net5.0\ref\x2.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\obj\Debug\net5.0\x2.pdb
+C:\Users\Админ\source\repos\2isp20\Ragimov\x2\obj\Debug\net5.0\x2.genruntimeconfig.cache
